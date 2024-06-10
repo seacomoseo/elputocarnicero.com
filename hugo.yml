@@ -1,14 +1,14 @@
-baseURL: ''
+baseURL: https://elputocarnicero.com
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/elputocarnicero.com
+  netlify_name: elputocarnicero
+  netlify_id: f6bab8e3-6806-4c45-8b3a-bf90ec6bb9cd
+  hook: NjY2NmM4YWY5NmVmODMxMGNmYmYzYWZlCg==
+  drive_link: https://drive.google.com/file/d/1WF7gjYNPCVJEa6D51dHkqd-ogRw6WebP
+  drive_mails: elputocarnicero@gmail.com
 defaultContentLanguage: es
 disableLanguages: [en,fr]
 languages:
