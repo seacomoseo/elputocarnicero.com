@@ -21,7 +21,7 @@ sections:
   - butcher-shop
 # - file: butcher-shop
 # - file: curaciones
-- file: faq
+# - file: faq
 - file: resenas
 - file: contacto
 ---
