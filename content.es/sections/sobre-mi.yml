@@ -16,7 +16,6 @@ rows:
   - title: Historia
     link: '#historia'
     image: historia/icono.png
-    ratio: none
   - title: Estilo
     link: '#estilo'
     image: estilo/icono.png
