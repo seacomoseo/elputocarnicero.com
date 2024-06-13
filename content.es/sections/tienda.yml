@@ -25,7 +25,7 @@ rows:
     image: tienda/tazas/01.jpg
     link: '#tazas'
   - title: Llaveros
-    image: tienda/llaveros/03.jpg
+    image: tienda/llaveros/04.jpg
     link: '#llaveros'
   - title: Pegatinas
     image: tienda/pegatinas/01.jpg

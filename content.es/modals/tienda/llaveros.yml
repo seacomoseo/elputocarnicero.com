@@ -1,12 +1,17 @@
 title: Llaveros
 rows:
-- type: gallery
+- type: columns
   design:
-    num: 2
-    alt: true
+    num: 4
+    ratio: 2x3
     gap: true
     button: hide
-  images:
-  - tienda/llaveros/03.jpg
-  - tienda/llaveros/02.jpg
-  - tienda/llaveros/01.jpg
+  items:
+  - image: tienda/llaveros/04.jpg
+    link: https://www.instagram.com/p/CbxDSxeLKm2/
+  - image: tienda/llaveros/03.jpg
+    link: tienda/llaveros/03.jpg
+  - image: tienda/llaveros/02.jpg
+    link: tienda/llaveros/02.jpg
+  - image: tienda/llaveros/01.jpg
+    link: tienda/llaveros/01.jpg
