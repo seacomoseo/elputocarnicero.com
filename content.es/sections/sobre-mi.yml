@@ -2,13 +2,14 @@ anchor: 'Sobre mi: el Mejor Tatuador de Murcia'
 id: sobre-mi
 title: Sobre mi
 subtitle: El Puto Carnicero Tattoo
-# size: xl
+size: xl
 rows:
 - type: columns
   design:
-    num: 3
+    num: 6
+    num_xs: true
     underline: true
-    # button: hide
+    title_size: 2
   items:
   - title: Trabajo
     link: '#trabajo'

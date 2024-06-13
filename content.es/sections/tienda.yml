@@ -8,10 +8,12 @@ rows:
 
 - type: columns
   design:
-    num: 3
+    num: 5
+    num_xs: true
     ratio: circle
     border: alt
     underline: true
+    title_size: 2
   items:
   - title: Camisetas
     image: tienda/camisetas/01.jpg
