@@ -1,9 +1,9 @@
 title: Tazas
-size: xl
+# size: xl
 rows:
 - type: gallery
   design:
-    num: 5
+    num: 2
     cover: true
     gap: true
   images:
@@ -11,4 +11,4 @@ rows:
   - tienda/tazas/02.jpg
   - tienda/tazas/03.jpg
   - tienda/tazas/04.jpg
-  - tienda/tazas/05.mp4#mute
+  # - tienda/tazas/05.mp4#mute
