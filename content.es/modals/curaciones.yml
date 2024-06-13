@@ -3,6 +3,7 @@ subtitle: Curacion del tatuaje segun San Sarnicero
 rows:
 - type: steps
   design:
+    border: light
     underline: true
   items:
   - title: Recién hecho
