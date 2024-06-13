@@ -5,8 +5,8 @@ content:
   uppercase: false
   underline: false
   align: left
-  color: light
-  toc_color: white
+  color: white
+  toc_color: alt
   border: main
   reading_time: true
 common:

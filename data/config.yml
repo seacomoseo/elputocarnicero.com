@@ -1,8 +1,8 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
-logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
+title: El Puto Carnicero Tattoo
+description: Tatuador en Murcia especializado en NeoTradicional y Tatuajes a Color ✅ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards).
+logo: logo-sm.png
+legal_name: ''
+legal_dni: ''
 legal_email: ''
 legal_location: ''
 country: España
@@ -10,7 +10,7 @@ location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- El Puto Carnicero
 price_range: €€
 google_analytics: G-ENRMHP8PT4
 google_site_verification: ''
@@ -35,12 +35,6 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
-
+- link: https://www.instagram.com/elputocarnicero/
+- link: https://www.facebook.com/p/elputocarnicero-100064145586001/
+- link: https://g.page/r/Cc6Rbk_bzOk7EBM

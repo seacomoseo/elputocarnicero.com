@@ -1,44 +1,44 @@
+anchor: Estudio de Tatuajes en Murcia
+id: contacto
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
-button: link
+subtitle: Respuesta max. en 24 horas en dias laborables
+description: |
+  Para presupuestos y consultas solemos usar instagram
 size: sm
-icon: paper-plane
+more:
+  align: center
+  button: link
 rows:
 - type: contact
   data:
   - type: schedule
-    days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
+    days: Martes a Viernes
+    hours: 11:00 - 20:00
   - type: br
   - type: phone
-    label: 111 222 333
-  - type: whatsapp
-    label: 444 555 666
-    button: link
-  - type: mail
-    label: info@sansoul.es
-    full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
+    label: 650 10 67 10
     button: light
+  - type: whatsapp
+    label: 650 10 67 10
+    button: link
+  - type: custom
+    link: https://www.instagram.com/elputocarnicero/
+    icon: instagram
+    label: '@elputocarnicero'
+    ofuscate: true
+    button: alt
+    font_alt: true
+    ga4: true
   - type: address
     active: true
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
+    name: El Puto Carnicero Tattoo
+    streetAddress: C. Virgen de la Esperanza, 5
+    postalCode: '30008'
     addressLocality: Murcia
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1334058,37.9909053]}'
+    button: dark
   form:
     fill_inputs: true
     items:
@@ -47,6 +47,7 @@ rows:
       required: true
     - type: tel
       name: Teléfono
+      required: true
     - type: email
       name: Email
       required: true
@@ -55,5 +56,5 @@ rows:
       required: true
   map:
     active: true
-    link: https://g.page/webmurcia
+    link: https://g.page/r/Cc6Rbk_bzOk7EBM
     iframe: ''

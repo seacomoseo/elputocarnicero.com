@@ -1,0 +1,39 @@
+anchor: Portfolio de Tatuajes en Murcia
+id: portfolio
+title: Portfolio
+subtitle: victimas
+size: xl
+rows:
+- type: gallery
+  design:
+    num: 3
+    alt: true
+    gap: true
+    button: alt
+  images:
+  - tattoos/2021-06-02-19-34-30.jpg
+  - tattoos/2021-11-11-00-48-28.jpg
+  - tattoos/2021-11-26-22-06-44.jpg
+  - tattoos/2022-03-02-00-26-14.jpg
+  - tattoos/2022-04-08-20-34-13.jpg
+  - tattoos/2022-04-27-23-17-04.jpg
+  - tattoos/2022-05-13-20-52-06.jpg
+  - tattoos/2022-07-23-18-09-01.jpg
+  - tattoos/2022-09-19-23-48-03.jpg
+  - tattoos/2022-10-07-19-26-41.jpg
+  - tattoos/2022-11-12-21-41-04.jpg
+  - tattoos/2022-11-13-20-32-06.jpg
+  - tattoos/2023-03-05-19-14-28.jpg
+  - tattoos/2023-04-04-20-04-23.jpg
+  - tattoos/2023-04-27-08-20-00.jpg
+  - tattoos/2023-05-09-20-29-11.jpg
+  - tattoos/2023-06-17-16-34-40.jpg
+  - tattoos/2023-08-15-20-43-12.jpg
+  - tattoos/2023-11-18-19-11-39.jpg
+  - tattoos/2024-06-10-09-53-23.jpg
+  - tattoos/2024-06-10-09-53-30.jpg
+  - tattoos/2024-06-10-09-53-41.jpg
+  - tattoos/2024-06-10-09-53-42.jpg
+  - tattoos/2024-06-10-09-53-53.jpg
+  - tattoos/2024-06-10-09-53-54.jpg
+

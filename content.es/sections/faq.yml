@@ -1,9 +1,12 @@
 title: FAQ
-subtitle: Preguntas Frecuentes
+subtitle: Dudas y Preguntas Frecuentes
 size: md
-icon: circle-question
+more:
+  align: center
 rows:
 - type: collapsible
+  design:
+    font_alt: true
   items:
   - title: ¿Una pregunta de ejemplo?
     description: |

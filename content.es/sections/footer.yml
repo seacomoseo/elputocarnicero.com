@@ -1,3 +1,5 @@
+bg: fondo.png
+parallax: true
 description: |
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}

@@ -5,21 +5,21 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
-    weight: 400
-    strong: 0
+    family: Roboto Slab
+    weight: 300
+    strong: 700
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
+    family: Carnivalee Freakshow
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: OPTICarmiFive
+    weight: 400
     strong: 0
     italic: false
     line-height: 1.25
@@ -27,17 +27,17 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#f0bc03'
     light: '#fff'
     dark: '#fff'
     contrast: text
   alt:
-    color: '#fff'
+    color: '#69101f'
     light: '#fff'
     dark: '#fff'
-    contrast: all
+    contrast: text
   link:
-    color: '#fe5f55'
+    color: '#f0bc03' #db230a
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -48,24 +48,24 @@ colors:
     dark: '#282525'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
   deep: false
   outline: false
-  font_base: false
+  font_base: true
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
-  opacity: 0.15
+  opacity: 0.25
 lightbox_overlay:
   opacity: 0.8
   color: black
 performance:
-  showup: true
-  parallax: true
+  showup: false
+  parallax: false
   srcsetx2: true

@@ -1,6 +1,5 @@
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
-icon: comment
+subtitle: Comentarios malsonantes
 rows:
 - type: reviews
   design:
@@ -8,41 +7,44 @@ rows:
     color: white
     slider: true
     interval: 8
+    icon: ditto
   items:
-  - title: Lorem I.
-    subtitle: Beatae Vitae
-    image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+  - title: Andrea M.
     description: |
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+      Tatuajero y persona de 10!
 
-      Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
+      Es un gran profesional, te asesora en todo momento y te ayuda para que tu tatuaje sea único y se adapte 100% a la zona!
 
-      Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-      Explicabo.
-  - title: Sequi N.
-    subtitle: Ratione Voluptatem
-    image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+      Además la curación genial, los colores han quedado super planos y uniformes!!
+  - title: Morris
     description: |
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+      Ya es el décimo tatuaje que me hago con él, calidad increíble y trato personalizado, atento y amable.
 
-      Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
-
-      Sequi nesciunt.
-  - title: Quaerat V.
-    subtitle: Magnam Aliquam
-    image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+      Recomiendo al 100% a este tatuador el cual es el mejor que conozco en la Region y España.
+  - title: Rubén M.
     description: |
-      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+      Un gran profesional, te ofrece la posibilidad de diseñarte un tattoo personalizado, dándole las nociones de lo que sientes o quieres expresar a través del dibujo.
 
-      Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+      Unos tatuajes con mucha calidad y no solo en estilo neotradi que es su especialidad más destacada, si no también en la elaboración de realismos y he de decir que siendo una de las disciplinas de tatuaje más complicadas (desde mi punto de vista), este tatuador está a la altura de obras que me impresionaron mucho.
 
-      Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      Recomendado!!!
+
+      Os lo recomiendo!!!
+  - title: Kevin M.
+    description: |
+      Ahora mismo estoy sentado con él y se comía un caldo con pelotas.
+
+      Muy normal para el nombre que lleva.
+
+      Esperaba un macarra un tío duro.
+
+      Pero se tomó una manzanilla.
+
+      Volveré para repetir.
+  - title: Verónica E.
+    description: |
+      Trato genial, me sentí muy cómoda y un trabajo que se adapta a ti, muy profesional.
 - type: columns
   items:
   - description: |
-      ¡Hay más aquí! ¡Añade la tuya!
-      {.subtitle}
-
-      [btn icon-star Google](https://g.page/webmurcia/review "noindex")
-      [btn icon-star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")
+      [btn icon-star Más reseñas](https://g.page/r/Cc6Rbk_bzOk7EBM/review "noindex")

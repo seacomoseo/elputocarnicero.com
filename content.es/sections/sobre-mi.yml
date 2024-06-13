@@ -1,0 +1,26 @@
+title: Sobre mi
+subtitle: El Puto Carnicero Tattoo
+size: xl
+rows:
+- type: columns
+  design:
+    # num: 3
+    underline: true
+    card: true
+    # button: hide
+  items:
+  - title: Trabajo
+    link: '#trabajo'
+    image: trabajo/2023-07-22-16-47-02.jpg
+  - title: Historia
+    link: '#historia'
+    image: historia/2022-03-12-17-23-56.jpg
+  - title: Estilo
+    link: '#estilo'
+    image: estilo/2024-06-10-09-53-56.jpg
+  - title: Convenciones y Eventos
+    link: '#convenciones-eventos'
+    image: convenciones-eventos/2023-04-27-08-25-05.jpg
+  - title: Butcher Shop
+    link: '#tienda'
+    image: butcher-shop/poster.png

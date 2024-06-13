@@ -1,21 +1,26 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: ▷ El Puto Carnicero Tattoo ◁ Tatuador en Murcia Centro
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
-image: fondo.jpg
+description: llll➤ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards). ✅ Especializado en NeoTradicional y Tatuajes a Color.
+image: logo-sm.png
 draft: false
 noindex: false
 translationKey: home
 sections:
 - file: header
-- file: nosotros
-- file: servicios
+- file: portfolio
+- file: sobre-mi
   modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
+  - trabajo
+  - historia
+  - estilo
+  - convenciones-eventos
+  # - materiales
+  # - forma-trabajo
+  - butcher-shop
+# - file: butcher-shop
+# - file: curaciones
 - file: faq
 - file: resenas
 - file: contacto

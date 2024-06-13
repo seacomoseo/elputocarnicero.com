@@ -1,13 +1,39 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-image: logo.svg
-color: main-dark
-bg: fondo.jpg
-description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  [btn icon-plus Más](#principal)
+anchor: El Puto Carnicero Tattoo - Tatuador en Murcia Centro
+# bg: fondo.png
+# size: xl
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
+  padding_top: 2
+  padding_bottom: 2
+rows:
+- type: columns
+  design:
+    num: 8
+    gap: 3
+    align_y: top
+  items:
+  - order: 2
+    image: logo.svg
+    # ratio: 2x1
+    span: 5
+    description: |
+      > LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS
+      {.dittos .align-center}
+
+      Bienvenidos a la **butcher's web**, un lugar diseñado directamente por el Carnicero alejado de algoritmos, censuras y demás patrones en los que virtualmente hay que jugar si quieres mantener un nivel de trabajo mínimo.
+
+      **Esto es El Puto Carnicero en estado puro con su trabajo**, profesionalidad y podríamos decir que sus desequilibrios mentales y afecciones psicologías.
+
+      Un lugar para replantearse un buen cambio e investigar si, lo que desde fuera tachamos de locura, es una buena forma de vivir en libertad.
+
+      Bienvenidos al agujero que aportará un poco de sentido a mi trabajo, mi forma de ver las cosas relacionadas con él y la historia que me compone laboral y personalmente a dia de hoy.
+
+      Espero que disfrutéis del contenido tanto como un servidor escribiéndolo **para vosotrxs, mis amadas víctimas**.
+    more:
+      align: left
+  - order: 1
+    image: video.mp4#poster=trabajo/2023-07-22-16-47-02.jpg
+    ratio: 9x16
+    span: 3
+    description: |
+      [btn-alt icon-plus Más](#principal)

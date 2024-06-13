@@ -1,6 +1,6 @@
 logo: ''
-color: white
-screen_sticky: 600
+color: link
+screen_sticky: 800
 size_sticky: ''
 articles_sticky: false
 transparent: true

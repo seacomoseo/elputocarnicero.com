@@ -1,0 +1,58 @@
+title: Estilo
+
+rows:
+- type: columns
+  design:
+    num: 2
+    # num_xs: true
+    ratio: 2x3
+    button: hide
+    align: left
+  items:
+
+  - span: 2
+    description: |
+      Lejos de poder categorizar mi estilo dentro de algo predefinido donde el cumplimiento de los estándares es absoluto, **el estilo sí que ha sido algo que me ha ido eligiendo a mí en vez de ser al contrario**.
+
+  - span: 2
+    image: estilo/2021-11-26-20-23-55.jpg
+    link: estilo/2021-11-26-20-23-55.jpg
+    more:
+      ratio: 2x1
+
+  - span: 2
+    description: |
+      Al comenzar con una idea no del todo definida de lo que era el tatuaje ni de estilos, sentía que para empezar en algo con respeto debía empaparme de los **orígenes** y, tras un tiempo tatuando, me daba cuenta de cuáles eran más sólidos y cuáles menos. Así que, sin descartar nada que creyese que iba a salir bien, fui practicando un poco de todo hasta caer en la cuenta de que, independientemente del estilo, el tatuaje tenía unas **normas**, dentro de las cuales había que jugar para asegurar la **solidez** de una pieza. Han sido esas normas las que han ido dando forma al estilo; por ello, hay tintes de varios estilos, porque en ningún momento pretendí hacer un estilo en concreto, sino más bien intentar hacer algo **diferente** sin faltar a esas normas, y a día de hoy esa sigue siendo mi lucha.
+
+  - image: estilo/2022-11-12-17-26-11.jpg
+    link: estilo/2022-11-12-17-26-11.jpg
+  - image: estilo/2021-11-26-20-23-49.jpg
+    link: estilo/2021-11-26-20-23-49.jpg
+  - span: 2
+    description: |
+      Si tuviera que definirlo, hablaríamos de un *neotradicional de alto contraste* cuya paleta de colores se sale de la norma establecida por ese estilo.
+
+      Al final, soy de las personas que piensan que, en trabajos artísticos, **la obra de cada artesano tiene gran parte de él mismo**.
+
+  - image: estilo/2024-06-10-09-53-56.jpg
+    link: estilo/2024-06-10-09-53-56.jpg
+  - image: estilo/2024-06-10-09-54-00.jpg
+    link: estilo/2024-06-10-09-54-00.jpg
+
+  - span: 2
+    description: |
+      En mi caso, he crecido en continua convivencia con momentos muy limitantes para mí físicamente y otros en los que he disfrutado de mis capacidades normales de la edad que me acontecía.
+
+      Eso ha compuesto una visión de la vida en la que he aprendido a necesitar una gran **sombra** sobre mis días para entender y valorar los días de **pleno sol** en los que me encuentro mejor.
+
+  - image: estilo/2024-06-10-09-54-01.jpg
+    link: estilo/2024-06-10-09-54-01.jpg
+  - image: estilo/2024-06-10-09-53-55.jpg
+    link: estilo/2024-06-10-09-53-55.jpg
+
+  - span: 2
+    description: |
+      Todo ello, que no es más que un condicionante como el que podría tener cualquiera, forma parte de mi trabajo en el punto en el que contrasto mis diseños **buscando una gran oscuridad con la que justificar los colores vibrantes** de algunas partes de la pieza.
+
+      *Una filosofia real en la que, para que algo brille de verdad, necesita estar rodeado de una oscuridad profunda*.
+      {.subtitle}
