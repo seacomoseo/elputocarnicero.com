@@ -42,3 +42,4 @@ rows:
     label: Más trabajos
     licon: instagram
     button: alt
+    ofuscate: true
