@@ -1,0 +1,12 @@
+title: Llaveros
+rows:
+- type: gallery
+  design:
+    num: 2
+    alt: true
+    gap: true
+    button: hide
+  images:
+  - tienda/llaveros/03.jpg
+  - tienda/llaveros/02.jpg
+  - tienda/llaveros/01.jpg

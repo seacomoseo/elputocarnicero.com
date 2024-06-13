@@ -1,0 +1,23 @@
+title: Camisetas
+rows:
+- type: gallery
+  design:
+    num: 4
+    cover: true
+    gap: true
+    button: alt
+  images:
+  - tienda/camisetas/06.jpg
+  - tienda/camisetas/03.jpg
+  - tienda/camisetas/04.jpg
+  - tienda/camisetas/05.jpg
+
+  - tienda/camisetas/01.jpg
+  - tienda/camisetas/02.jpg
+  - tienda/camisetas/08.jpg
+  - tienda/camisetas/07.jpg
+
+  - tienda/camisetas/10.jpg
+  - tienda/camisetas/09.jpg
+  - tienda/camisetas/11.jpg
+  - tienda/camisetas/12.jpg

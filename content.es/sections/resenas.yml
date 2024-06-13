@@ -1,5 +1,6 @@
 title: Reseñas
 subtitle: Comentarios malsonantes
+color: dark
 rows:
 - type: reviews
   design:

@@ -1,0 +1,56 @@
+anchor: Tienda de Tatuajes en Murcia
+title: Butcher Shop
+subtitle: Tienda de Merchandising
+# color: white
+more:
+  padding_top: 0
+rows:
+
+- type: columns
+  design:
+    num: 3
+    ratio: circle
+    border: alt
+    underline: true
+  items:
+  - title: Camisetas
+    image: tienda/camisetas/01.jpg
+    link: '#camisetas'
+  - title: Láminas
+    image: tienda/laminas/01.jpg
+    link: '#laminas'
+  - title: Tazas
+    image: tienda/tazas/01.jpg
+    link: '#tazas'
+  - title: Llaveros
+    image: tienda/llaveros/03.jpg
+    link: '#llaveros'
+  - title: Pegatinas
+    image: tienda/pegatinas/01.jpg
+    link: '#pegatinas'
+
+# - type: columns
+#   design:
+#     num: 2
+#     align_y: center
+#   items:
+#   - order: 2
+#     image: tienda/icono.png
+#   - order: 1
+#     description: |
+#       La **Butcher Shop** es una **tienda de merchandising** creada para personas que carecen de normas sociales y no se rigen por conformismo alguno.
+
+#       Una actitud gamberra que merece tener una serie de artículos a los que cualquiera no pueda acceder.
+
+#       Es por ello que usaremos este espacio para mostrar algunos de los artículos de la **Butcher Shop**.
+
+#       Antes de nada, nos gustaría aclarar que **no pueden comprarse a través de la web**, sino que deben reservarse de manera directa a través de Instagram, ya que es en sus historias donde informamos del precio y la reserva de cada nuevo lanzamiento.
+
+#       **BUTCHER SHOP** únicamente crea **ediciones limitadas** de las que, una vez vendido el último artículo de cada lanzamiento, nunca más se vuelven a fabricar.
+
+#       Dentro de la marca, entendemos que personas de un carácter como el citado anteriormente no merecen tener lo que todo el mundo, sino que **merecen poseer algo a lo que pocas personas hayan tenido acceso**, y ese es parte del espíritu que intentamos reflejar en todo lo que hacemos.
+
+#       [btn icon-store Butcher Shop](/tienda/)
+#     more:
+#       align: left
+#       align_xl: right

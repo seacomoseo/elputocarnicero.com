@@ -1,0 +1,18 @@
+title: Láminas
+rows:
+- type: gallery
+  design:
+    num: 4
+    cover: true
+    gap: true
+    button: alt
+  images:
+  - tienda/laminas/04.jpg
+  - tienda/laminas/05.jpg
+  - tienda/laminas/06.jpg
+  - tienda/laminas/07.jpg
+  - tienda/laminas/01.jpg
+  - tienda/laminas/02.jpg
+  - tienda/laminas/03.jpg
+  - tienda/laminas/08.jpg
+  # - tienda/laminas/09.jpg

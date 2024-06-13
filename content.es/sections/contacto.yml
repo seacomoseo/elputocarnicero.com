@@ -5,6 +5,7 @@ subtitle: Respuesta max. en 24 horas en dias laborables
 description: |
   Para presupuestos y consultas solemos usar instagram
 size: sm
+color: white
 more:
   align: center
   button: link

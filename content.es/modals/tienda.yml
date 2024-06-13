@@ -1,9 +1,7 @@
 anchor: Tienda de Tatuajes en Murcia
 id: tienda
-title: Tienda
-subtitle: Merchandising
-image: butcher-shop/header.png
-# size: xs
+title: Butcher Shop
+subtitle: Tienda de Merchandising
 description: |
   La **Butcher Shop** es una **tienda de merchandising** creada para personas que carecen de normas sociales y no se rigen por conformismo alguno.
 
@@ -18,11 +16,5 @@ description: |
   Dentro de la marca, entendemos que personas de un carácter como el citado anteriormente no merecen tener lo que todo el mundo, sino que **merecen poseer algo a lo que pocas personas hayan tenido acceso**, y ese es parte del espíritu que intentamos reflejar en todo lo que hacemos.
 
   [btn-alt icon-store Butcher Shop](/tienda/ "nofollow")
-
-  <!--
-  PRÓXIMAMENTE
-  {.h1}
-  -->
 more:
   align: left
-  ratio: circle

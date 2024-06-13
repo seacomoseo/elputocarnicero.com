@@ -16,11 +16,8 @@ sections:
   - historia
   - estilo
   - convenciones-eventos
-  # - materiales
-  # - forma-trabajo
-  - butcher-shop
-# - file: butcher-shop
-# - file: curaciones
+  - tienda
+  - curaciones
 # - file: faq
 - file: resenas
 - file: contacto

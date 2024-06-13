@@ -51,6 +51,20 @@
   }
 }
 
+#sobre-mi {
+  .image,
+  .image__inner {
+    border-radius: 0;
+    overflow: visible;
+  }
+}
+
 .review__stars {
   color: var(--link);
+}
+
+#body-tienda {
+  .logo__link {
+    justify-content: center;
+  }
 }

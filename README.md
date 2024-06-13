@@ -6,16 +6,6 @@
 ## STEPS
 
 
-### After client validate web
-
-
-#### [Google Search Console](https://search.google.com/search-console)
-
-- Add property
-- Link with Analytics
-- Add sitemap.xml
-
-
 ##### Delivery
 
 Send to all collaborators next:
