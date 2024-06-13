@@ -9,7 +9,6 @@ noindex: true
 translationKey: tienda
 header_article: true
 modals:
-  color: dark
   size: lg
 menu:
   hide: true

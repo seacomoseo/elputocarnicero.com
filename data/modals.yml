@@ -13,7 +13,7 @@ image_align: ''
 uppercase: false
 underline: true
 align: ''
-color: ''
+color: dark
 gradient: ''
 gradient_type: ''
 pill: false
