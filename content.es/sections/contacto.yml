@@ -31,7 +31,7 @@ rows:
     font_alt: true
     ga4: true
   - type: address
-    active: false
+    active: true
     name: El Puto Carnicero Tattoo
     streetAddress: C. Virgen de la Esperanza, 5
     postalCode: '30008'
@@ -56,6 +56,6 @@ rows:
   #     name: Mensaje
   #     required: true
   map:
-    active: false
+    active: true
     link: https://g.page/r/Cc6Rbk_bzOk7EBM
     iframe: ''
