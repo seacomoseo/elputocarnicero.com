@@ -7,3 +7,6 @@
 /contacto/ /#contacto
 /wp-admin/ /
 /wp-login.php /
+
+/qr-local /
+/qr-gmaps /

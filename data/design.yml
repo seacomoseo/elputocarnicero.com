@@ -1,7 +1,6 @@
 icons:
   type: solid
-  emojis: ''
-  emojis_default: false
+  emojis: false
 fonts:
   google: true
   base:
@@ -18,7 +17,7 @@ fonts:
     line-height: 1.25
     top: 0
   title:
-    family: OPTICarmiFive
+    family: OPTI Carmi Five
     weight: 400
     strong: 0
     italic: false
