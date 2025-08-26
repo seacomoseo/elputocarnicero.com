@@ -2,9 +2,7 @@
 title: Tienda
 title_seo: Butcher Shop - El Puto Carnicero Tattoo
 slug: tienda
-description: ''
 image: tienda/poster.png.png
-draft: false
 noindex: true
 translationKey: tienda
 header_article: true
