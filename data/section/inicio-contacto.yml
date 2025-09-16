@@ -1,0 +1,43 @@
+name: Contacto
+id: contacto
+title: Contacto
+subtitle: Respuesta max. en 24 horas en dias laborables
+md: |
+  Para presupuestos y consultas solemos usar instagram
+# size: md
+color: white
+align: center
+hanchor: 'Contacto: Estudio de Tatuajes en Murcia, cerca de mi'
+menu_button: cta
+box:
+  cols: 2
+  align_y: center
+boxes:
+- fit: .8
+  contact:
+  - type: schedule
+    days: Martes a Viernes
+    hours: 11:00 - 20:00
+  - type: br
+  - type: phone
+    label: 650 10 67 10
+    button: light
+  - type: whatsapp
+    label: 650 10 67 10
+    button: cta
+  - type: custom
+    link: https://www.instagram.com/elputocarnicero/
+    icon: brand:instagram
+    label: '@elputocarnicero'
+    lock: true
+    button: alt
+    swap: true
+    ga4: true
+  - type: address
+    button: dark
+    label: C. Virgen de la Esperanza, 5, 30008 Murcia
+    anchor: El Puto Carnicero Tattoo, C. Virgen de la Esperanza, 5, 30008 Murcia
+- fit: 1.2
+  geos:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.1334058,37.9909053]}'

@@ -1,35 +1,11 @@
 baseURL: https://elputocarnicero.com
-Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/elputocarnicero.com
-  netlify_name: elputocarnicero
+  domain: elputocarnicero.com
+  name: elputocarnicero
   netlify_id: f6bab8e3-6806-4c45-8b3a-bf90ec6bb9cd
-  hook: NjY2NmM4YWY5NmVmODMxMGNmYmYzYWZlCg==
+  netlify_hook: NjY2NmM4YWY5NmVmODMxMGNmYmYzYWZlCg==
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1WF7gjYNPCVJEa6D51dHkqd-ogRw6WebP
   drive_mails: elputocarnicero@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en,fr]
-languages:
-  es:
-    paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: personalizadas

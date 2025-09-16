@@ -1,0 +1,37 @@
+title: Todas
+tpl:
+  bg:
+    color: light
+  menu:
+    hide: true
+    logo: true
+    logo_align: center
+    transparent: true
+    size: lg
+    sticky: auto
+    color: cta
+    auto: same-modals
+    hide_icons: true
+  section:
+  - size: sm
+  sections:
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
+  list:
+    cols: 3
+    shade: true
+    ratio: 1/1
+    icon: hide
+    md: hide
+    button: hide
+  related:
+    slider: true
+  callnow: auto

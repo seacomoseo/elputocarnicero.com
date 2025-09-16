@@ -1,0 +1,87 @@
+icons:
+  fill: true
+  weight: 700
+  grade: 0
+  optical: 24
+  style: outlined
+  play: svg:youtube-iframe
+fonts:
+  base:
+    family: Roboto Slab
+    weight: 300
+    bold: 700
+    italic: false
+    line_height: 1.25
+  cursive:
+    family: Carnivalee Freakshow
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  title:
+    family: OPTI Carmi Five
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#f0bc03'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  alt:
+    color: '#69101f'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  cta:
+    color: '#f0bc03' #db230a
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  base:
+    white: '#fff'
+    light: '#eee'
+    gray: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: false
+  outline: false
+  font:
+    type: base
+    bold: true
+    caps: true
+  swap:
+    type: base
+    bold: false
+    caps: false
+inputs:
+  fill: false
+  labels_out: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0.15
+  color: black
+  alpha: 0.75

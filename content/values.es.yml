@@ -1,0 +1,19 @@
+title: Valores Globales
+menu:
+  image: base/logo.svg
+footer:
+  div: tear-alt
+  bi: fondo.png
+  parallax: fix
+  space: 2
+  dots:
+  - link: https://www.instagram.com/elputocarnicero/
+  - link: https://www.facebook.com/p/elputocarnicero-100064145586001/
+  - link: https://g.page/r/Cc6Rbk_bzOk7EBM
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

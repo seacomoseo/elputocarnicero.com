@@ -1,0 +1,123 @@
+name: Tienda
+title: Butcher Shop
+subtitle: Tienda de Merchandising
+hanchor: Tienda de Tatuajes en Murcia
+
+
+box:
+  cols: 5
+  cols_vs: 2
+  circle: true
+  border: alt
+  line: true
+
+boxes:
+- title: Camisetas
+  image: tienda/camisetas/01.jpg
+  link: '#camisetas'
+- title: Láminas
+  image: tienda/laminas/01.jpg
+  link: '#laminas'
+- title: Tazas
+  image: tienda/tazas/01.jpg
+  link: '#tazas'
+- title: Llaveros
+  image: tienda/llaveros/02.jpg
+  link: '#llaveros'
+- title: Pegatinas
+  image: tienda/pegatinas/01.jpg
+  link: '#pegatinas'
+
+
+# - type: columns
+#   design:
+#     num: 2
+#     align_y: center
+#   items:
+#   - order: 2
+#     image: tienda/icono.png
+#   - order: 1
+#     md: |
+#       La **Butcher Shop** es una **tienda de merchandising** creada para personas que carecen de normas sociales y no se rigen por conformismo alguno.
+
+#       Una actitud gamberra que merece tener una serie de artículos a los que cualquiera no pueda acceder.
+
+#       Es por ello que usaremos este espacio para mostrar algunos de los artículos de la **Butcher Shop**.
+
+#       Antes de nada, nos gustaría aclarar que **no pueden comprarse a través de la web**, sino que deben reservarse de manera directa a través de Instagram, ya que es en sus historias donde informamos del precio y la reserva de cada nuevo lanzamiento.
+
+#       **BUTCHER SHOP** únicamente crea **ediciones limitadas** de las que, una vez vendido el último artículo de cada lanzamiento, nunca más se vuelven a fabricar.
+
+#       Dentro de la marca, entendemos que personas de un carácter como el citado anteriormente no merecen tener lo que todo el mundo, sino que **merecen poseer algo a lo que pocas personas hayan tenido acceso**, y ese es parte del espíritu que intentamos reflejar en todo lo que hacemos.
+
+#       [[::storefront:: Butcher Shop]](/tienda/)
+#     more:
+#       align: left
+#       align_vl: right
+
+
+modal:
+  line: true
+  color: dark
+modals:
+
+- title: Camisetas
+  gallery:
+    cols: 4
+  images:
+  - tienda/camisetas/06.jpg
+  - tienda/camisetas/03.jpg
+  - tienda/camisetas/04.jpg
+  - tienda/camisetas/05.jpg
+  - tienda/camisetas/01.jpg
+  - tienda/camisetas/02.jpg
+  - tienda/camisetas/08.jpg
+  - tienda/camisetas/07.jpg
+  - tienda/camisetas/10.jpg
+  - tienda/camisetas/09.jpg
+  - tienda/camisetas/11.jpg
+  - tienda/camisetas/12.jpg
+
+- title: Láminas
+  gallery:
+    cols: 4
+  images:
+  - tienda/laminas/04.jpg
+  - tienda/laminas/05.jpg
+  - tienda/laminas/06.jpg
+  - tienda/laminas/07.jpg
+  - tienda/laminas/01.jpg
+  - tienda/laminas/02.jpg
+  - tienda/laminas/03.jpg
+  - tienda/laminas/08.jpg
+
+- title: Tazas
+  size: xl
+  gallery:
+    cols: 5
+  images:
+  - tienda/tazas/01.jpg
+  - tienda/tazas/02.jpg
+  - tienda/tazas/03.jpg
+  - tienda/tazas/04.jpg
+  - tienda/tazas/05.mp4#mute
+
+- title: Llaveros
+  box:
+    cols: 2
+    ratio: 2/3
+    button: hide
+  boxes:
+  - image: tienda/llaveros/02.jpg
+    link: https://www.instagram.com/p/CbxDSxeLKm2/
+  - image: tienda/llaveros/01.jpg
+    link: tienda/llaveros/01.jpg
+
+- title: Pegatinas
+  gallery:
+    cols: 2
+  images:
+  - tienda/pegatinas/01.jpg
+  - tienda/pegatinas/02.jpg
+  - tienda/pegatinas/03.jpg
+  - tienda/pegatinas/04.jpg

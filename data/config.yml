@@ -1,40 +1,8 @@
-title: El Puto Carnicero Tattoo
-description: Tatuador en Murcia especializado en NeoTradicional y Tatuajes a Color ✅ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards).
-logo: logo-sm.png
-legal_name: ''
-legal_dni: ''
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- LocalBusiness
-- Organization
-alternate_name:
-- El Puto Carnicero
-price_range: €€
-google_analytics: G-ENRMHP8PT4
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://www.instagram.com/elputocarnicero/
-- link: https://www.facebook.com/p/elputocarnicero-100064145586001/
-- link: https://g.page/r/Cc6Rbk_bzOk7EBM
+langs:
+- lang: es
+  title: El Puto Carnicero Tattoo
+  description: Tatuador en Murcia especializado en NeoTradicional y Tatuajes a Color ✅ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards).
+  google_analytics: G-ENRMHP8PT4
+  google_file_verification: google7467d923cbb3eb4c.html
+cms:
+  logo: base/icon.svg

@@ -1,29 +1,28 @@
+name: Resenas
 title: Reseñas
 subtitle: Comentarios malsonantes
 color: dark
-rows:
-- type: reviews
-  design:
-    num: 3
+boxes:
+- review:
     color: white
     slider: true
-    interval: 8
-    icon: ditto
-  items:
+    time: 8
+    cols: 3
+  reviews:
   - title: Andrea M.
-    description: |
+    md: |
       Tatuajero y persona de 10!
 
       Es un gran profesional, te asesora en todo momento y te ayuda para que tu tatuaje sea único y se adapte 100% a la zona!
 
       Además la curación genial, los colores han quedado super planos y uniformes!!
   - title: Morris
-    description: |
+    md: |
       Ya es el décimo tatuaje que me hago con él, calidad increíble y trato personalizado, atento y amable.
 
       Recomiendo al 100% a este tatuador el cual es el mejor que conozco en la Region y España.
   - title: Rubén M.
-    description: |
+    md: |
       Un gran profesional, te ofrece la posibilidad de diseñarte un tattoo personalizado, dándole las nociones de lo que sientes o quieres expresar a través del dibujo.
 
       Unos tatuajes con mucha calidad y no solo en estilo neotradi que es su especialidad más destacada, si no también en la elaboración de realismos y he de decir que siendo una de las disciplinas de tatuaje más complicadas (desde mi punto de vista), este tatuador está a la altura de obras que me impresionaron mucho.
@@ -32,7 +31,7 @@ rows:
 
       Os lo recomiendo!!!
   - title: Kevin M.
-    description: |
+    md: |
       Ahora mismo estoy sentado con él y se comía un caldo con pelotas.
 
       Muy normal para el nombre que lleva.
@@ -43,17 +42,17 @@ rows:
 
       Volveré para repetir.
   - title: Fran N.
-    description: |
+    md: |
       Un gran tatuador y una gran persona, muy minucioso en su trabajo y muy profesional
 
       Si quieres el tatu más macarra, molón y único, no dudes en ponerte en contacto con él, porque no te vas a arrepentir.
   - title: Ramón P.
-    description: |
+    md: |
       Aunque es un gran profesional en su trabajo, el tatuaje es lo de menos con este hombre.
 
       El trato personal y cercano y la calidad de sus diseños son los que lo definen como artista.
   - title: Cristina T.
-    description: |
+    md: |
       Tatuador de 10, persona de 10.000.
 
       Si quieres elevar tu experiencia del Tattoo a otro nivel, enhorabuena, has encontrado tú sitio.
@@ -62,22 +61,20 @@ rows:
 
       Sencillamente nada más estará a la altura después.
   - title: Michelle G.
-    description: |
+    md: |
       Trato fenomenal, trabaja siempre desde la pasión y el corazón, sus diseños son originales y en cada uno de ellos demuestra su pasión por su trabajo 🫶🏻.
 
       Después de curado el tatuaje mantiene colores vivos, curación fenomenal…
   - title: Chris B.
-    description: |
+    md: |
       Muy profesional muy buena técnica, curación insuperable ,con el paso de los años siguen iguales los colores, han envejecido súper bien voy a volver seguro.
 
       Este tío hace locuras con los colores
 
       100% recomendado 👌…
   - title: Verónica E.
-    description: |
+    md: |
       Trato genial, me sentí muy cómoda y un trabajo que se adapta a ti, muy profesional.
-
-- type: columns
-  items:
-  - description: |
-      [btn icon-star Más reseñas](https://g.page/r/Cc6Rbk_bzOk7EBM/review "[nofollow]")
+- boxes:
+  - md: |
+      [[::star:: Más reseñas]](https://g.page/r/Cc6Rbk_bzOk7EBM/review "[nofollow]")

@@ -1,0 +1,283 @@
+name: Sobre mi
+id: sobre-mi
+title: Sobre mi
+subtitle: El Puto Carnicero Tattoo
+size: xl
+hanchor: 'Sobre mi: el Mejor Tatuador de Murcia'
+
+
+box:
+  line: true
+  cols: 6
+  cols_vs: 2
+  pin: add
+boxes:
+- title: Trabajo
+  link: '#trabajo'
+  image: base/icon.png
+- title: Historia
+  link: '#historia'
+  image: historia/icono.png
+- title: Estilo
+  link: '#estilo'
+  image: estilo/icono.png
+- title: Convenciones y Eventos
+  link: '#convenciones-eventos'
+  image: convenciones-eventos/icono.png
+- title: Butcher Shop
+  link: '#tienda'
+  image: tienda/icono.png
+- title: Curaciones
+  link: '#curaciones'
+  image: curaciones/icono.png
+
+
+modal:
+  line: true
+  color: dark
+modals:
+
+
+- title: Trabajo
+  box:
+    ratio: 2/3
+    gray: true
+    button: hide
+    align: left
+    cols: 2
+  boxes:
+  - fit: 2
+    md: |
+      Desde que empecé a dedicarme a este sector, he vivido **obsesionado** con la **originalidad** en mis trabajos.
+
+      No podemos negar que en este negocio estamos en constante cambio y estamos en continuo aprendizaje con el fin de dar a nuestras víctimas lo mejor de nosotros cada día, pero creo que en esencia mantenemos el espíritu con el que cada uno empezamos.
+  - image: trabajo/2023-07-22-16-47-02.jpg
+    link: trabajo/2023-07-22-16-47-02.jpg
+  - image: trabajo/2023-03-05-13-51-13.jpg
+    link: trabajo/2023-03-05-13-51-13.jpg
+  - fit: 2
+    md: |
+      Si tuviese que definir mi propio trabajo de algún modo, creo que, para bien o para mal, **único** es la palabra.
+
+      *El Puto Carnicero* es un alter ego que busca víctimas cuyo interés sea llevar el sello propio de los artistas que en su piel trabajan.
+
+      Tatuajes cuya elaboración, proceso y diseño son una firma en sí mismos.
+  - image: trabajo/2022-11-30-17-42-43.jpg
+    link: trabajo/2022-11-30-17-42-43.jpg
+  - image: trabajo/2022-11-30-23-00-00.jpg
+    link: trabajo/2022-11-30-23-00-00.jpg
+  - fit: 2
+    md: |
+      La creación de algo único para cada persona siempre ha sido una obsesión para mí, y me gusta continuar mi trabajo bajo esa dinámica con el paso de los años.
+
+      Técnicamente, mejoramos cada día investigando las praxis menos traumáticas para cada zona del cuerpo y respetando siempre los estándares higiénico-sanitarios.
+  - image: trabajo/2022-11-30-12-36-35.jpg
+    link: trabajo/2022-11-30-12-36-35.jpg
+  - image: trabajo/2021-12-15-13-55-57.jpg
+    link: trabajo/2021-12-15-13-55-57.jpg
+  - fit: 2
+    md: |
+      Trabajamos con calidad de manera profesional para hacer de tu sesión una experiencia libre de contaminación cruzada.
+
+      La sesión cárnica es un espacio tan libre de prejuicios como lleno de profesionalidad e investigación de los mejores materiales, técnicas, alérgenos y demás cosas que deberían preocupar a los mortales.
+
+
+- title: Historia
+  box:
+    ratio: 3/4
+    button: hide
+    align: left
+    cols: 2
+  boxes:
+  - fit: 2
+    md: |
+      Nací en las áridas montañas del noroeste de Mordor y, como muchos de mis compañeros a los que admiro profundamente, abandoné una posición económica segura y un trabajo más estable para dedicarme al cien por cien al **tatuaje**.
+  - image: historia/2020-12-20-12-30-23.jpg
+    link: historia/2020-12-20-12-30-23.jpg
+  - image: historia/2022-03-12-17-23-56.jpg
+    link: historia/2022-03-12-17-23-56.jpg
+  - fit: 2
+    md: |
+      Desde pequeño, me he sentido muy afortunado de entender la cara B de las cosas y siempre he tenido tiempo e intención de admirar lo que pasa desapercibido.
+
+      De corazón abrupto y personalidad ácida, fue en mi juventud ya adulta donde se forjó *El Carnicero*.
+
+      El origen del alter ego viene de la mano de mi primera motocicleta y es así como he acabado entendiendo el tatuaje.
+  - image: historia/2021-06-20-18-57-34.jpg
+    link: historia/2021-06-20-18-57-34.jpg
+  - image: historia/2021-08-18-15-36-20.jpg
+    link: historia/2021-08-18-15-36-20.jpg
+  - fit: 2
+    md: |
+      *Para mi, el tatuaje, la musica y las motos son tres elementos que componen una forma de vida.*
+
+      Y aunque pueda parecer un trabajo cualquiera desde fuera, al convertirse en una forma de vida, **no hay parte que no nutra la otra**.
+
+      Maestro de nada y aprendiz de todo, estamos en la brecha desde 2018.
+  - image: historia/2024-06-10-09-54-10.jpg
+    link: historia/2024-06-10-09-54-10.jpg
+  - image: historia/2024-06-10-09-53-15.jpg
+    link: historia/2024-06-10-09-53-15.jpg
+  - fit: 2
+    md: |
+      Años en los que he vivido toda serie de experiencias que han llevado mi personalidad a un estadio completamente distinto en el que **he conocido grandísimos profesionales** que a día de hoy forman plena parte de mi día a día dentro y fuera del estudio en el que trabajo.
+
+      El tatuaje para mí ha sido una intoxicación continua de **insaciable sed de conocimiento**; diría que ha sido la enfermedad crónica por excelencia en mi vida y desde que empecé a practicarlo ha sido el mayor ladrón de mi tiempo y capacidad.
+  - image: historia/2009-01-01-02-07-17.jpg
+    link: historia/2009-01-01-02-07-17.jpg
+  - image: historia/2024-01-14-17-28-03.jpg
+    link: historia/2024-01-14-17-28-03.jpg
+  - fit: 2
+    md: |
+      Tras una infancia maravillosa, una madurez complicada y una etapa adulta la hostia de gamberra, no he salido de mi modesto aunque precioso pueblo para no dejar huella en cada una de las personas que se ponen en mis manos.
+
+
+- title: Estilo
+  box:
+    ratio: 2/3
+    button: hide
+    align: left
+    cols: 2
+  boxes:
+  - fit: 2
+    md: |
+      Lejos de poder categorizar mi estilo dentro de algo predefinido donde el cumplimiento de los estándares es absoluto, **el estilo sí que ha sido algo que me ha ido eligiendo a mí en vez de ser al contrario**.
+  - fit: 2
+    image: estilo/2021-11-26-20-23-55.jpg
+    link: estilo/2021-11-26-20-23-55.jpg
+    ratio: 2x1
+  - fit: 2
+    md: |
+      Al comenzar con una idea no del todo definida de lo que era el tatuaje ni de estilos, sentía que para empezar en algo con respeto debía empaparme de los **orígenes** y, tras un tiempo tatuando, me daba cuenta de cuáles eran más sólidos y cuáles menos. Así que, sin descartar nada que creyese que iba a salir bien, fui practicando un poco de todo hasta caer en la cuenta de que, independientemente del estilo, el tatuaje tenía unas **normas**, dentro de las cuales había que jugar para asegurar la **solidez** de una pieza. Han sido esas normas las que han ido dando forma al estilo; por ello, hay tintes de varios estilos, porque en ningún momento pretendí hacer un estilo en concreto, sino más bien intentar hacer algo **diferente** sin faltar a esas normas, y a día de hoy esa sigue siendo mi lucha.
+  - image: estilo/2022-11-12-17-26-11.jpg
+    link: estilo/2022-11-12-17-26-11.jpg
+  - image: estilo/2021-11-26-20-23-49.jpg
+    link: estilo/2021-11-26-20-23-49.jpg
+  - fit: 2
+    md: |
+      Si tuviera que definirlo, hablaríamos de un *neotradicional de alto contraste* cuya paleta de colores se sale de la norma establecida por ese estilo.
+
+      Al final, soy de las personas que piensan que, en trabajos artísticos, **la obra de cada artesano tiene gran parte de él mismo**.
+  - image: estilo/2024-06-10-09-53-56.jpg
+    link: estilo/2024-06-10-09-53-56.jpg
+  - image: estilo/2024-06-10-09-54-00.jpg
+    link: estilo/2024-06-10-09-54-00.jpg
+  - fit: 2
+    md: |
+      En mi caso, he crecido en continua convivencia con momentos muy limitantes para mí físicamente y otros en los que he disfrutado de mis capacidades normales de la edad que me acontecía.
+
+      Eso ha compuesto una visión de la vida en la que he aprendido a necesitar una gran **sombra** sobre mis días para entender y valorar los días de **pleno sol** en los que me encuentro mejor.
+  - image: estilo/2024-06-10-09-54-01.jpg
+    link: estilo/2024-06-10-09-54-01.jpg
+  - image: estilo/2024-06-10-09-53-55.jpg
+    link: estilo/2024-06-10-09-53-55.jpg
+  - fit: 2
+    md: |
+      Todo ello, que no es más que un condicionante como el que podría tener cualquiera, forma parte de mi trabajo en el punto en el que contrasto mis diseños **buscando una gran oscuridad con la que justificar los colores vibrantes** de algunas partes de la pieza.
+
+      *Una filosofia real en la que, para que algo brille de verdad, necesita estar rodeado de una oscuridad profunda*.
+      {.subtitle}
+
+
+- id: convenciones-eventos
+  title: Convenciones y Eventos
+  box:
+    ratio: 3/4
+    button: hide
+    align: left
+    cols: 2
+  boxes:
+  - fit: 2
+    md: |
+      Desde mis comienzos en esta aventura, siempre he querido conocer más de todo lo que rodea al sector, ya sean eventos de aprendizaje, competitivos o de cualquier índole artística que pueda aportar lo más mínimo a mi trabajo diario.
+
+      He participado en diversos seminarios relacionados con el color de algún modo, así como en técnicas de diseño y praxis.
+
+      En septiembre de 2022, fui ponente en el ciclo *Tatuaje y Arte* de la **Fundación CajaMurcia**, relacionado con el diseño aplicado al tatuaje y el proceso creativo.
+  - image: convenciones-eventos/2022-04-08-21-03-03.jpg
+    link: convenciones-eventos/2022-04-08-21-03-03.jpg
+  - image: convenciones-eventos/2023-03-03-20-15-14.jpg
+    link: convenciones-eventos/2023-03-03-20-15-14.jpg
+  - fit: 2
+    md: |
+      Entre finales de 2022 y 2023, he participado en diversas convenciones de índole internacional por todo el territorio peninsular, cuyas sedes fueron Alicante, Murcia, Valencia y Zaragoza.
+  - image: convenciones-eventos/2023-04-27-08-25-06.jpg
+    link: convenciones-eventos/2023-04-27-08-25-06.jpg
+  - image: convenciones-eventos/2023-05-09-20-30-00.jpg
+    link: convenciones-eventos/2023-05-09-20-30-00.jpg
+  - fit: 2
+    md: |
+      **Premiado 7 veces en la categoría *Neotradicional***, me siento muy agradecido con el jurado de cada uno de los eventos y espero seguir participando en ellos de manera frecuente.
+  - image: convenciones-eventos/2023-03-06-02-00-51.jpg
+    link: convenciones-eventos/2023-03-06-02-00-51.jpg
+  - image: convenciones-eventos/2023-04-27-09-00-00.jpg
+    link: convenciones-eventos/2023-04-27-09-00-00.jpg
+  - fit: 2
+    md: |
+      En definitiva, me gusta estar laboralmente activo y actualizado, así como participar en cualquier evento que guarde un espacio dedicado al tatuaje desde el respeto que me profesa.
+
+
+- id: tienda
+  title: Butcher Shop
+  subtitle: Tienda de Merchandising
+  hanchor: Tienda de Tatuajes en Murcia
+  md: |
+    La **Butcher Shop** es una **tienda de merchandising** creada para personas que carecen de normas sociales y no se rigen por conformismo alguno.
+
+    Una actitud gamberra que merece tener una serie de artículos a los que cualquiera no pueda acceder.
+
+    Es por ello que usaremos este espacio para mostrar algunos de los artículos de la **Butcher Shop**.
+
+    Antes de nada, nos gustaría aclarar que **no pueden comprarse a través de la web**, sino que deben reservarse de manera directa a través de Instagram, ya que es en sus historias donde informamos del precio y la reserva de cada nuevo lanzamiento.
+
+    **BUTCHER SHOP** únicamente crea **ediciones limitadas** de las que, una vez vendido el último artículo de cada lanzamiento, nunca más se vuelven a fabricar.
+
+    Dentro de la marca, entendemos que personas de un carácter como el citado anteriormente no merecen tener lo que todo el mundo, sino que **merecen poseer algo a lo que pocas personas hayan tenido acceso**, y ese es parte del espíritu que intentamos reflejar en todo lo que hacemos.
+  link: /tienda/
+  pin: storefront
+  label: Butcher Shop
+  button: alt
+  lock: true
+
+
+- title: Curaciones
+  subtitle: Curacion del tatuaje segun San Sarnicero
+  boxes:
+  - step:
+      border: light
+      line: true
+      icon_size: 1
+    steps:
+    - title: Recién hecho
+      md: |
+        Dejamos cubierto con el film protector o empapador un mínimo de dos horas.
+    - title: Dos primeros días
+      subtitle: 3 veces al dia
+      md: |
+        Lavamos el tatuaje con agua tibia y gel PH neutro, aclaramos y secamos con papel de cocina insistiendo sobre la herida. Una vez seco, tapamos de nuevo con papel film o empapador hasta la siguiente cura.
+    - title: Cinco siguientes
+      subtitle: 2 veces al dia
+      md: |
+        Lavamos con agua y gel PH neutro. Secamos con papel de cocina posicionándolo sobre el tatuaje, no arrastrando. Una vez esté bien seco, aplicamos una fina capa de crema específica de curación de tatuaje y dejamos destapado.
+    - title: Siete siguientes
+      subtitle: 1 vez al dia
+      md: |
+        Lavamos una vez al día con agua y gel PH neutro y aplicamos una fina capa de crema una o dos veces al día, dependiendo de la sequedad de la zona tatuada y llevamos destapado.
+    - title: Curación completada
+      md: |
+        Recuerda que la regeneración cutánea total va más allá de la curación del tatuaje y su estado dependerá sobre todo de la exposición solar a la que sometamos nuestra zona tatuada.
+  - box:
+      line: true
+    boxes:
+    - title: Detalles
+      md: |
+        - Cada una de las curas debe hacerse con las manos bien limpias y en un lugar libre de posibles agentes que puedan contaminar la curación de nuestro tatuaje.
+        - No debemos consumir alcohol durante al menos los cuatro primeros días de curación.
+        - Durante los dos primeros días de curación no usaremos nada de crema.
+        - Frotaremos el tatuaje al secarlo los dos primeros días con el fin de eliminar, entre cura y cura, todas las supuraciones de plasma y tinta de nuestro tatuaje.
+        - Evitaremos llevar ropa ajustada o someter a fricción innecesaria nuestra herida durante todo el proceso.
+        - Evitaremos el contacto directo con el sol, agua de piscina o playa, mascotas, productos de limpieza, así como cualquier producto que conlleve riesgo de infección.
+        - Al cuarto o quinto día de curación, dependiendo del proceso de cicatrización de cada persona, se producirá el desprendimiento de la piel muerta. Es importante evitar roces en nuestra herida y dejar que los trocitos caigan por su propio proceso.
+        - En este estadio del proceso curativo, el aspecto de nuestro tatuaje puede ser desastroso, pero es completamente normal.
+        - El tiempo y proceso de curación depende mucho de nuestro sistema inmunológico y del tipo de tatuaje, es una ciencia tan exacta como lo es la similitud biológica entre personas.
+        - El exceso de crema de curación de tatuajes durante las curas es una práctica altamente perjudicial debido a que impide el paso de oxígeno y contribuye a la pérdida excesiva de pigmento, así como su distorsión.

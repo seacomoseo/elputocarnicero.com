@@ -1,16 +1,16 @@
-anchor: Portfolio de Tatuajes en Murcia
+name: Portfolio
 id: portfolio
 title: Portfolio
 subtitle: victimas
+hanchor: Portfolio de Tatuajes en Murcia
 size: xl
 color: dark
-rows:
-- type: gallery
-  design:
-    num: 6
-    cover: true
-    gap: true
-    button: alt
+box:
+  gap: 2
+boxes:
+- gallery:
+    cols: 6
+    gap: 1
   images:
   - tattoos/2021-06-02-19-34-30.jpg
   - tattoos/2021-11-11-00-48-28.jpg
@@ -36,10 +36,8 @@ rows:
   - tattoos/2024-06-10-09-53-41.jpg
   - tattoos/2024-06-10-09-53-42.jpg
   - tattoos/2024-06-10-09-53-54.jpg
-- type: columns
-  items:
-  - link: https://www.instagram.com/elputocarnicero/
-    label: Más trabajos
-    licon: instagram
-    button: alt
-    ofuscate: true
+- link: https://www.instagram.com/elputocarnicero/
+  label: Más trabajos
+  pin: brand:instagram
+  button: alt
+  lock: true
