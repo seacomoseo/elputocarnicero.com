@@ -1,0 +1,59 @@
+name: Local ➡️ Portfolio
+id: portfolio
+title: Portfolio
+subtitle: Fotos de Tatuajes del Estudio
+hanchor: Portfolio de Tatuajes en Caravaca de la Cruz, Murcia
+size: xl
+color: dark
+box:
+  gap_vs: 2
+  line: true
+boxes:
+
+- title: Carne Cruda
+  subtitle: Blackwork, Realismo Oscuro, Disenos mas Elaborados
+  boxes:
+  - gallery:
+      cols: 6
+      gap: 1
+    images:
+    - la-carniceria-tattoo/portfolio/carne-cruda/01.jpg
+    - la-carniceria-tattoo/portfolio/carne-cruda/02.jpg
+    - la-carniceria-tattoo/portfolio/carne-cruda/03.jpg
+    - la-carniceria-tattoo/portfolio/carne-cruda/04.jpg
+    - la-carniceria-tattoo/portfolio/carne-cruda/05.jpg
+    - la-carniceria-tattoo/portfolio/carne-cruda/06.jpg
+
+- title: Filete Fino
+  subtitle: Trabajos mas delicados, Fineline y Demas 
+  boxes:
+  - gallery:
+      cols: 6
+      gap: 1
+    images:
+    - la-carniceria-tattoo/portfolio/filete-fino/01.jpg
+    - la-carniceria-tattoo/portfolio/filete-fino/02.jpg
+    - la-carniceria-tattoo/portfolio/filete-fino/03.jpg
+    - la-carniceria-tattoo/portfolio/filete-fino/04.jpg
+    - la-carniceria-tattoo/portfolio/filete-fino/05.jpg
+    - la-carniceria-tattoo/portfolio/filete-fino/06.jpg
+
+- title: Cortes de Autor
+  subtitle: Piezas 100% Carnicas
+  boxes:
+  - gallery:
+      cols: 6
+      gap: 1
+    images:
+    - la-carniceria-tattoo/portfolio/corte-autor/01.jpg
+    - la-carniceria-tattoo/portfolio/corte-autor/02.jpg
+    - la-carniceria-tattoo/portfolio/corte-autor/03.jpg
+    - la-carniceria-tattoo/portfolio/corte-autor/04.jpg
+    - la-carniceria-tattoo/portfolio/corte-autor/05.jpg
+    - tattoos/2023-04-27-08-20-00.jpg
+
+- link: https://www.instagram.com/lacarniceriatattoo/
+  label: Más trabajos
+  pin: brand:instagram
+  button: alt
+  lock: true

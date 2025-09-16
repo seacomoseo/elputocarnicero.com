@@ -1,22 +1,20 @@
-name: Contacto
+name: Inicio ➡️ Contacto
 id: contacto
 title: Contacto
 subtitle: Respuesta max. en 24 horas en dias laborables
-md: |
-  Para presupuestos y consultas solemos usar instagram
-# size: md
+md: Para presupuestos y consultas solemos usar instagram
+hanchor: 'Contacto: Estudio de Tatuajes en Murcia, cerca de mi'
+size: md
 color: white
 align: center
-hanchor: 'Contacto: Estudio de Tatuajes en Murcia, cerca de mi'
 menu_button: cta
 box:
   cols: 2
   align_y: center
 boxes:
-- fit: .8
-  contact:
+- contact:
   - type: schedule
-    days: Martes a Viernes
+    days: Lunes a Miércoles
     hours: 11:00 - 20:00
   - type: br
   - type: phone
@@ -37,7 +35,9 @@ boxes:
     button: dark
     label: C. Virgen de la Esperanza, 5, 30008 Murcia
     anchor: El Puto Carnicero Tattoo, C. Virgen de la Esperanza, 5, 30008 Murcia
-- fit: 1.2
-  geos:
+- geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.1334058,37.9909053]}'
+- md: 'Nuevo local en Caravaca:'
+  link: /la-carniceria-tattoo/
+  label: La Carnicería

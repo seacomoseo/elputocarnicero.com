@@ -1,0 +1,103 @@
+name: Inicio ➡️ Sobre
+id: sobre
+title: Sobre
+subtitle: La Carniceria Tattoo
+size: md
+
+
+box:
+  line: true
+  cols: 3
+  cols_vs: 2
+  pin: add
+boxes:
+- title: ¿Qué es?
+  link: '#que-es'
+  image: convenciones-eventos/icono.png
+- title: Filosofía de Trabajo
+  link: '#filosofia'
+  image: base/icon.png
+- title: Más Sobre Mí
+  link: '/#sobre-mi'
+  image: historia/icono.png
+
+
+modal:
+  line: true
+  color: dark
+modals:
+
+
+- title: ¿Qué es La Carnicería Tattoo?
+  id: que-es
+  space: 0
+  box:
+    gap_ny: 1
+    gap_vs: 2
+    md_align: left
+  boxes:
+
+  - md: |
+      La carnicería nace para ofrecer un servicio selecto, brutalmente honesto y sin adornos.
+
+      Creo que el tatuaje merece un tiempo de elaboración, un respeto por la piel del cliente y un contexto al rededor de cada proyecto para llevar a cabo una buena pieza.
+
+      Veo como la industrialización de un sector artesano y artístico por naturaleza esta derivando en una perdida de originalidad por parte de tatuadores y clientela.
+
+  - gallery:
+      cols: 3
+    images:
+    - la-carniceria-tattoo/local/01.jpg
+    - la-carniceria-tattoo/local/02.jpg
+    - la-carniceria-tattoo/local/03.jpg
+    - la-carniceria-tattoo/local/04.jpg
+    - la-carniceria-tattoo/local/05.jpg
+    - la-carniceria-tattoo/local/06.jpg
+    - la-carniceria-tattoo/local/07.jpg
+    - la-carniceria-tattoo/local/08.jpg
+    - la-carniceria-tattoo/local/09.jpg
+
+  - md: |
+      La carnicería ha sido construida al detalle para devolver al tatuaje su origen gamberro alejado de la aceptación social de colectivos que nunca estuvieron relacionados con esta ancestral técnica.
+
+      Este local solo concibe la profesionalidad, el respeto por lo que hacemos y la experiencia demostrable de quienes en el desarrollan su trabajo.
+
+
+- title: Filosofía de Trabajo
+  id: filosofia
+  space: 0
+  box:
+    gap_ny: 1
+    gap_vs: 2
+    md_align: left
+  boxes:
+
+  - md: |
+      LA CARNICERÍA es un estudio en el que se trabaja bajo cita previa, sin paseos ni distracciones con la única finalidad de ofrecer un servicio de mayor calidad y centrar todo nuestro esfuerzo laboral en el trabajo previo.
+
+      Este formato nos permite seguir continuamente viajando, creciendo y compartiendo experiencias con otros profesionales de distintos estudios repartidos por toda la geografía internacional al igual que participar activamente en diversos eventos relacionados con el tatuaje de manera directa.
+
+  - gallery:
+      cols: 3
+      gap: 1
+    ratio: 3/4
+    images:
+    - la-carniceria-tattoo/local/11.jpg
+    - la-carniceria-tattoo/local/13.jpg
+    - la-carniceria-tattoo/local/14.jpg
+
+  - md: |
+      Bajo mi punto de vista, eso es todo lo que me ha construido como tatuador y lo que me mantiene ofreciendo el cien por cien de mis capacidades en cada proyecto. Tras mucho meditar, entendí que la cita previa era la única forma de ofrecer el cien por cien de mis capacidades y traer todo lo aprendido fuera a cada proyecto que se desarrolle entre estas paredes.
+
+  - gallery:
+      cols: 2
+      gap: 1
+    ratio: 3/4
+    images:
+    - la-carniceria-tattoo/local/10.jpg
+    - la-carniceria-tattoo/local/12.jpg
+
+  - md: |
+      Esto no es una tienda sin mas, es un punto de encuentro artístico donde pretendo reunir algunos de los profesionales que he conocido a lo largo de mi carrera y que bajo mi parecer ofrecen una gran calidad de su trabajo y humana. Elegimos para ti el profesional adecuado para cada trabajo y te lo traemos desde las entrañas de Mordor hasta este agujero inmundo.
+
+      **LO QUE VES EN LAS REDES ES SOLO UNA PARTE DE MI, AQUÍ SE ADAPTA EL TATUAJE A LA  PIEL, NO AL ALGORITMO**.

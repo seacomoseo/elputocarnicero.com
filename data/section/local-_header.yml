@@ -1,0 +1,29 @@
+name: Local ➡️ Header
+full: true
+pt: 2
+pb: 2
+hanchor: La Carnicería Tattoo - Estudio de Tatuajes en Caravaca de la Cruz, Murcia
+box:
+  cols: 2
+  gap: 3
+  align_y: top
+boxes:
+- order: 2
+  fit: 1
+  boxes:
+  - image: la-carniceria-tattoo/logo.svg
+    md: |
+      > LA PUTA EXPERIENCIA
+      {.quotes}
+
+      Bienvenidxs al ultimo legado cárnico, un lugar donde entender el tatuaje desde el respeto por sus propios orígenes y en el que llevar a cabo todos los proyectos de una manera mucho más personal.
+
+      **Tatuajes de verdad, para gente de verdad**.
+  - link: '#more'
+    label: Ver Portfolio
+  - link: '#contacto'
+    label: Pide tu Cita
+- order: 1
+  fit: .67
+  image: la-carniceria-tattoo/presentacion.mp4
+  ratio: 9/16

@@ -1,0 +1,66 @@
+name: Local ➡️ Contacto
+id: contacto
+title: Contacto
+subtitle: Solo con cita previa
+md: Presupuesto individual por pieza
+hanchor: 'Contacto: Estudio de Tatuajes cerca de mi'
+size: xl
+color: white
+align: center
+menu_button: cta
+box:
+  cols: 3
+  gap_vs: 4
+  gap_ny: 1
+  grow: true
+  align_y: center
+boxes:
+- # fit: 0.6
+  # title: Hagámoslo Fácil
+  # subtitle: 'Podremos orientarte mucho mejor'
+  md: |
+    **Te orientaremos mejor** \
+    si nos facilitas:
+
+    - Nombre completo
+    - Idea del tatuaje
+    - Zona del cuerpo
+    - Tamaño aproximado
+    - Imágenes de referencia
+    - Disponibilidad horaria
+  # hn: p
+  # align: left
+- # fit: 1.2
+  contact:
+  - type: schedule
+    days: Jueves a Viernes
+    hours: 10:30 - 19:00
+  - type: br
+  - type: phone
+    label: 650 10 67 10
+    button: light
+  - type: whatsapp
+    label: 650 10 67 10
+    button: cta
+  - type: custom
+    link: https://www.instagram.com/lacarniceriatattoo/
+    icon: brand:instagram
+    label: '@lacarniceriatattoo'
+    lock: true
+    button: alt
+    swap: true
+    ga4: true
+  - type: address
+    button: dark
+    label: Av. Almería, 30400 Caravaca de la Cruz
+    anchor: LA CARNICERÍA TATTOO, Av. Almería, 30400 Caravaca de la Cruz, Murcia
+- # fit: 1.2
+  geos:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.8629964,38.1017143]}'
+- title: Bienvenidx al legado cárnico
+  hn: p
+  md: |
+    Si has llegado hasta aquí, ya estás mucho más cerca de la experiencia
+
+    El gamberrismo y la barbarie **no es para cualquiera**, pero **nadie** dice que tú seas **cualquiera**

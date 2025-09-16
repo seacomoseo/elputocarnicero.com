@@ -2,11 +2,11 @@
 slug: inicio
 title: Inicio
 seo: ▷ El Puto Carnicero Tattoo ◁ Tatuador en Murcia Centro
-description: llll➤ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards). ✅ Especializado en NeoTradicional y Tatuajes a Color.
+description: llll➤ “LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards). ✅ Especializado en NeoTradicional y Tatuajes a Color.
 image: base/logo-sm.png
 tpl:
   sections:
-  - file: inicio-header
+  - file: inicio-_header
   - file: inicio-portfolio
   - file: inicio-sobre-mi
   - file: inicio-resenas
@@ -19,7 +19,7 @@ org:
   names:
   - El Puto Carnicero Tattoo
   - El Puto Carnicero
-  summary: Tatuador en Murcia especializado en NeoTradicional y Tatuajes a Color ✅ ”LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards).
+  summary: Tatuador en Murcia especializado en NeoTradicional y Tatuajes a Color ✅ “LA VIDA SIN DOLOR NO ES VIDA NI HOSTIAS” (Dangerous Bastards).
   legal: null
   nif: null
   email: null
@@ -43,11 +43,11 @@ org:
   - Murcia
   schedule:
   - days:
-      mon: false
+      mon: true
       tue: true
       wed: true
-      thu: true
-      fri: true
+      thu: false
+      fri: false
       sat: false
       sun: false
     hours:

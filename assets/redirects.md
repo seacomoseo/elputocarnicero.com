@@ -8,6 +8,5 @@
 /wp-admin/ /
 /wp-login.php /
 
-# /qr-local /la-carniceria-tattoo/
-/qr-local /
+/qr-local /la-carniceria-tattoo/
 /qr-gmaps https://g.page/r/CVKJM1-jbpENEBM/review

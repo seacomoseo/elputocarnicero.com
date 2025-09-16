@@ -1,0 +1,33 @@
+name: Local ➡️ Resenas
+title: Reseñas
+subtitle: Comentarios malsonantes
+color: dark
+boxes:
+- review:
+    color: white
+    slider: true
+    time: 8
+    cols: 3
+  reviews:
+  - title: Cristina T.
+    md: |
+      Cualquier cosa que diga se queda corta...
+
+      La profesionalidad de El Carnicero va más allá de todo lo que puedas soñar.
+
+      La casa de mi tatuador de confianza y amigo, un templo y un sueño.
+
+      Mis dieses 🙂‍↕️🖤
+  - title: David M.
+    md: |
+      Gran tatuador y gran persona.
+
+      Un profesional de los pies a la cabeza.
+
+      Con él no te aburres.
+  - title: Rafael F.
+    md: |
+      Lugar excepcional para una kapatanza en grupo.
+- boxes:
+  - md: |
+      [[::star:: Más reseñas]](https://g.page/r/CVKJM1-jbpENEBM/review "[nofollow]")
