@@ -24,7 +24,14 @@ org:
   nif: null
   email: null
   logo: base/logo-sm.png
-  images: []
+  images:
+  - trabajo/2023-07-22-16-47-02.jpg
+  - historia/2022-03-12-17-23-56.jpg
+  - historia/2024-06-10-09-54-10.jpg
+  - convenciones-eventos/2023-03-03-20-15-14.jpg
+  - tattoos/2023-04-04-20-04-23.jpg
+  - tattoos/2023-04-27-08-20-00.jpg
+  - tattoos/2023-05-09-20-29-11.jpg
   as:
   - https://www.instagram.com/elputocarnicero/
   - https://www.facebook.com/p/elputocarnicero-100064145586001/

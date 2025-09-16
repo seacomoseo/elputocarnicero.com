@@ -3,7 +3,7 @@ slug: la-carniceria-tattoo
 title: La Carnicería Tattoo
 seo: 'La Carnicería Tattoo: Estudio de Tatuajes en Caravaca de la Cruz'
 description: llll➤ “Gamberrismo y Barbarie”. LA PUTA EXPERIENCIA. ✅ Tatuajes sin filtros para gente sin complejos.
-image: la-carniceria-tattoo/poster.svg
+image: la-carniceria-tattoo/poster.png
 tpl:
   sections:
   - file: local-_header
@@ -23,8 +23,16 @@ org:
   legal: null
   nif: null
   email: null
-  logo: la-carniceria-tattoo/poster.svg
-  images: []
+  logo: la-carniceria-tattoo/poster.png
+  images:
+  - la-carniceria-tattoo/local/01.jpg
+  - la-carniceria-tattoo/local/02.jpg
+  - la-carniceria-tattoo/local/03.jpg
+  - la-carniceria-tattoo/local/04.jpg
+  - la-carniceria-tattoo/local/07.jpg
+  - la-carniceria-tattoo/portfolio/carne-cruda/01.jpg
+  - la-carniceria-tattoo/portfolio/filete-fino/03.jpg
+  - la-carniceria-tattoo/portfolio/corte-autor/02.jpg
   as:
   - https://www.instagram.com/lacarniceriatattoo/
   - https://g.page/r/CVKJM1-jbpENEBM
