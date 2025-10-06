@@ -40,12 +40,12 @@ org:
   - 650 10 67 10
   address:
     name: El Puto Carnicero Tattoo
-    street: C. Virgen de la Esperanza, 5
-    pc: '30008'
+    street: C. Merced, 14
+    pc: '30001'
     locality: Murcia
     region: Murcia
     country: España
-    geo: '{"type":"Point","coordinates":[-1.1334058,37.9909053]}'
+    geo: '{"type":"Point","coordinates":[-1.1275570,37.9874626]}'
   areas:
   - Murcia
   schedule:

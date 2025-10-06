@@ -33,11 +33,11 @@ boxes:
     ga4: true
   - type: address
     button: dark
-    label: C. Virgen de la Esperanza, 5, 30008 Murcia
-    anchor: El Puto Carnicero Tattoo, C. Virgen de la Esperanza, 5, 30008 Murcia
+    label: C. Merced, 14, 30001 Murcia
+    anchor: El Puto Carnicero Tattoo, C. Merced, 14, 30001 Murcia
 - geos:
   - type: point
-    geo: '{"type":"Point","coordinates":[-1.1334058,37.9909053]}'
+    geo: '{"type":"Point","coordinates":[-1.1275570,37.9874626]}'
 - md: 'Nuevo local en Caravaca:'
   link: /la-carniceria-tattoo/
   label: La Carnicería
