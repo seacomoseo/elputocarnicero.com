@@ -1,0 +1,12 @@
+- { from: /2024/ , to: / }
+- { from: /2024/01/ , to: / }
+- { from: /2024/01/04/hello-world/ , to: / }
+- { from: /category/uncategorized/ , to: / }
+- { from: /sample-page/ , to: / }
+- { from: /inicio/ , to: / }
+- { from: /contacto/ , to: /#contacto }
+- { from: /wp-admin/ , to: / }
+- { from: /wp-login.php , to: / }
+
+- { from: /qr-local , to: /la-carniceria-tattoo/ }
+- { from: /qr-gmaps , to: https://g.page/r/CVKJM1-jbpENEBM/review }

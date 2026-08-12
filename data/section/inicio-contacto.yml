@@ -1,43 +1,43 @@
 name: Inicio ➡️ Contacto
 id: contacto
-title: Contacto
-subtitle: Respuesta max. en 24 horas en dias laborables
-md: Para presupuestos y consultas solemos usar instagram
-hanchor: 'Contacto: Estudio de Tatuajes en Murcia, cerca de mi'
 size: md
 color: white
-align: center
-menu_button: cta
-box:
-  cols: 2
-  align_y: center
+menu_btn: cta
 boxes:
-- contact:
-  - type: schedule
-    days: Lunes a Miércoles
-    hours: 11:00 - 20:00
-  - type: br
-  - type: phone
-    label: 650 10 67 10
-    button: light
-  - type: whatsapp
-    label: 650 10 67 10
-    button: cta
-  - type: custom
-    link: https://www.instagram.com/elputocarnicero/
-    icon: brand:instagram
-    label: '@elputocarnicero'
-    lock: true
-    button: alt
-    swap: true
-    ga4: true
-  - type: address
-    button: dark
-    label: C. Merced, 14, 30001 Murcia
-    anchor: El Puto Carnicero Tattoo, C. Merced, 14, 30001 Murcia
-- geos:
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.1275570,37.9874626]}'
-- md: 'Nuevo local en Caravaca:'
-  link: /la-carniceria-tattoo/
-  label: La Carnicería
+- title: Contacto
+  sub: Respuesta max. en 24 horas en dias laborables
+  md: Para presupuestos y consultas solemos usar instagram
+  hanchor: 'Contacto: Estudio de Tatuajes en Murcia, cerca de mi'
+  align: center
+  box:
+    cols: 2
+    align_y: center
+  boxes:
+  - when:
+    - days: Lunes a Miércoles
+      hours: 11:00 - 20:00
+    links:
+    - type: phone
+      label: 650 10 67 10
+      btn: light
+    - type: whatsapp
+      label: 650 10 67 10
+      btn: cta
+    - type: custom
+      url: https://www.instagram.com/elputocarnicero/
+      icon: brand:instagram
+      label: '@elputocarnicero'
+      lock: true
+      btn: alt
+      swap: true
+      ga4: true
+    - type: address
+      btn: dark
+      label: C. Merced, 14, 30001 Murcia
+      anchor: El Puto Carnicero Tattoo, C. Merced, 14, 30001 Murcia
+  - geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-1.1275570,37.9874626]}'
+  - md: 'Nuevo local en Caravaca:'
+    url: /la-carniceria-tattoo/
+    label: La Carnicería

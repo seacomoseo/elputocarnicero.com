@@ -4,7 +4,8 @@ icons:
   grade: 0
   optical: 24
   style: outlined
-  play: svg:youtube-iframe
+  def:
+    play: svg:youtube-iframe
 fonts:
   base:
     family: Roboto Slab
@@ -19,7 +20,6 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   title:
     family: OPTI Carmi Five
     weight: 400
@@ -27,14 +27,13 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: true
 colors:
   main:
     color: '#f0bc03'
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: true
       text: true
@@ -42,7 +41,7 @@ colors:
     color: '#69101f'
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: true
       text: true
@@ -50,7 +49,7 @@ colors:
     color: '#f0bc03' #db230a
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: true
       text: true
@@ -63,8 +62,8 @@ colors:
 rounded:
   radius: 1.33
   chamfer: false
-buttons:
-  sides_round: false
+btns:
+  pill: false
   icon_circle: false
   deep: false
   outline: false

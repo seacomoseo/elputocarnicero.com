@@ -1,9 +1,10 @@
 ---
 slug: tienda
 title: Tienda
-seo: Butcher Shop - El Puto Carnicero Tattoo
-image: tienda/poster.png
-noindex: true
+seo:
+  title: Butcher Shop - El Puto Carnicero Tattoo
+  noindex: true
+img: /u/tienda/poster.png
 tpl:
   menu:
     hide: true
@@ -11,4 +12,3 @@ tpl:
   sections:
   - file: tienda
 ---
-

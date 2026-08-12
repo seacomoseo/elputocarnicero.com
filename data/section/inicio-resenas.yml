@@ -1,8 +1,8 @@
 name: Inicio ➡️ Resenas
-title: Reseñas
-subtitle: Comentarios malsonantes
 color: dark
 boxes:
+- title: Reseñas
+  sub: Comentarios malsonantes
 - review:
     color: white
     slider: true

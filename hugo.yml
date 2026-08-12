@@ -2,10 +2,11 @@ baseURL: https://elputocarnicero.com
 buildFuture: false
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: elputocarnicero.com
   name: elputocarnicero
   netlify_id: f6bab8e3-6806-4c45-8b3a-bf90ec6bb9cd
   netlify_hook: NjY2NmM4YWY5NmVmODMxMGNmYmYzYWZlCg==
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/1WF7gjYNPCVJEa6D51dHkqd-ogRw6WebP
+  drive_url: https://drive.google.com/file/d/1WF7gjYNPCVJEa6D51dHkqd-ogRw6WebP
   drive_mails: elputocarnicero@gmail.com

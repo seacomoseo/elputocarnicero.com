@@ -1,11 +1,14 @@
+@use 'css/_mixins' as mixins;
+@use 'css/_variables' as variables;
+
 // Menu
 .menu__link {
-  @include font-base-bold;
+  @include mixins.font-base-bold;
   text-transform: uppercase;
 }
 
 // Sections Background Blod
-.bg-dark > .bg-figure .bg-figure-image {
+.bg-dark > .bg-fig .bg-fig-image {
   mix-blend-mode: color;
 }
 
@@ -18,20 +21,20 @@
 }
 #body-home,
 #body-la-carniceria-tattoo {
-  #header {
+  #hero {
     .box--1 {
-      .image {
+      .img {
         margin-top: 1.5em;
-        filter: drop-shadow($shadow);
-        @media (min-width: $viewport-xl) {
+        filter: drop-shadow(variables.$shadow);
+        @media (min-width: variables.$viewport-xl) {
           animation: logo-intro 2s 0s both;
         }
       }
-      .image,
-      .image__inner {
+      .img,
+      .img__in {
         border-radius: 0;
       }
-      .image__inner {
+      .img__in {
         width: 26em;
         overflow: visible;
       }
@@ -44,9 +47,9 @@
     }
     blockquote {       @include show-from(0); }
     .md > p {          @include show-from(1); }
-    .button        {   @include show-from(2); }
-    .box--2 .image {   @include show-from(3); }
-    .bg-figure-image { @include show-from(0);
+    .btn        {   @include show-from(2); }
+    .box--2 .img {   @include show-from(3); }
+    .bg-fig-image { @include show-from(0);
       animation: show-from .125s 1s both;
       --show-from: scale(3);
       transform-origin: bottom;
@@ -56,8 +59,8 @@
 
 #sobre-mi,
 #sobre {
-  .image,
-  .image__inner {
+  .img,
+  .img__in {
     overflow: visible;
   }
 }
