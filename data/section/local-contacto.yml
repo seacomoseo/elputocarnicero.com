@@ -28,28 +28,29 @@ boxes:
   - when:
     - days: Jueves a Viernes
       hours: 10:30 - 19:00
-  links:
-  - type: phone
-    label: 650 10 67 10
-    btn: light
-  - type: whatsapp
-    label: 650 10 67 10
-    btn: cta
-  - type: custom
-    url: https://www.instagram.com/lacarniceriatattoo/
-    icon: brand:instagram
-    label: '@lacarniceriatattoo'
-    lock: true
-    btn: alt
-    swap: true
-    ga4: true
-  - type: address
-    btn: dark
-    label: Av. Almería, 30400 Caravaca de la Cruz
-    anchor: LA CARNICERÍA TATTOO, Av. Almería, 30400 Caravaca de la Cruz, Murcia
+    links:
+    - type: phone
+      label: 650 10 67 10
+      btn: light
+    - type: whatsapp
+      label: 650 10 67 10
+      btn: cta
+    - type: custom
+      url: https://www.instagram.com/lacarniceriatattoo/
+      icon: brand:instagram
+      label: '@lacarniceriatattoo'
+      lock: true
+      btn: alt
+      swap: true
+      ga4: true
+    - type: address
+      btn: dark
+      label: Av. Almería, 30400 Caravaca de la Cruz
+      anchor: LA CARNICERÍA TATTOO, Av. Almería, 30400 Caravaca de la Cruz, Murcia
   - geos:
     - type: point
       geo: '{"type":"Point","coordinates":[-1.8629964,38.1017143]}'
+    # fit: 1.2
   - title: Bienvenidx al legado cárnico
     hn: p
     md: |
